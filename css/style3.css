@@ -1,0 +1,99 @@
+html, body {
+	
+	height: 100%;
+}
+
+.sidebar {
+	
+	font-family: 'Source Code Pro', monospace;
+	padding-left: 2vh;
+	padding-right: 2vh;
+	box-sizing: border-box;
+}
+
+.Main {
+	background-color: rgba(255,255,255, 0.75);
+	font-family: 'Source Code Pro', monospace;
+	padding-top: 2vh;
+
+}
+
+.active {
+	background-color: grey;
+
+}
+
+.yellow {
+	background-color: rgba(247, 239, 219, 0.75);
+}
+
+li a {
+	color: white;
+	font-family: 'Garamond';
+}
+
+.background {
+	background-image: url("https://1.bp.blogspot.com/-km3y2TeQ4oM/T2yTsjrGu1I/AAAAAAAALGM/RcuzbWmFsIM/s1600/Sunny.papico+lavender+wild+flowers.png");
+	background-size: cover;
+	height: 100vh;
+}
+
+.logo {
+	width: 50%;
+	border-radius: 50%;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	margin-left: auto;
+    margin-right: auto;
+     display: block;
+
+}
+
+.maintext{
+	color: black;
+}
+
+.resume {
+	height: 100%;
+	width: 100%;
+}
+
+.pdf-img {
+	width: 70px;
+}
+
+.background-image {
+	background-image: url("http://cdn.pcwallart.com/images/lavender-wallpaper-wallpaper-3.jpg");
+	background-size: cover;
+
+	background-attachment: fixed;
+	height: 8vh;
+	opacity: 0.75;
+}
+
+.footercat {
+	
+	width: 20%;
+	margin-left: auto;
+	margin-top:auto;
+	
+    margin-right: 2vh;
+     
+     position:fixed;
+ 
+	
+	
+}
+
+
+
+.header {
+	color: black;
+	padding-top: 2vh;
+	padding-left: 1vh;
+}
+
+.sidetext {
+	padding-left: 1vh;
+	color: black;
+}

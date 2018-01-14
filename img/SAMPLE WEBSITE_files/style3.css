@@ -1,0 +1,56 @@
+html, body {
+	
+	height: 100%;
+}
+
+.sidebar {
+	
+	font-family: 'Source Code Pro', monospace;
+	padding-top: 2vh;
+	box-sizing: border-box;
+
+}
+
+.Main {
+	background-color: white;
+	opacity: 0.75;
+	font-family: 'Source Code Pro', monospace;
+	padding-top: 2vh;
+}
+
+.active {
+	background-color: grey;
+
+}
+
+.yellow {
+	background-color: #F7EFDB;
+}
+
+li a {
+	color: white;
+	font-family: 'Garamond';
+}
+
+.background {
+	background-image: url("https://1.bp.blogspot.com/-km3y2TeQ4oM/T2yTsjrGu1I/AAAAAAAALGM/RcuzbWmFsIM/s1600/Sunny.papico+lavender+wild+flowers.png");
+	background-size: cover;
+	height: 100vh;
+}
+
+.logo {
+	width: 50%;
+	border-radius: 50%;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+}
+
+
+.resume {
+	height: 100%;
+	width: 100%;
+}
+
+.pdf-img {
+	width: 70px;
+}

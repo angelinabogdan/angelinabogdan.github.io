@@ -1,0 +1,55 @@
+body {
+	color: #1D2C89;
+	margin:0px;
+}
+
+.header {
+	background-color: #7DD0D0;
+	font-family: 'Georgia';
+	font-weight: bold;
+}
+
+.logo {
+	border-radius: 50%;
+	width: 10%;
+}
+
+.background{
+		background-image: url("http://www.lse.ac.uk/lse-information/assets/images/banners/LSE-logo-and-signage-on-building.jpg");
+	font-family: 'Georgia';
+	background-size: cover;
+	height: 100vh;
+
+
+}
+
+.title{
+	text-align: left;
+	padding-top: 20vh;
+	padding-bottom: 5vh;
+	margin: 0px;
+
+}
+
+.main {
+	background-color: #8BD07D;
+	
+	font-family: 'Georgia';
+
+}
+
+.image {
+	width: 50%;
+}
+
+.footer {
+	background-color: #C87DD0;
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: bold;
+
+}
+
+.facebook {
+	font-family: 'Georgia';
+	font-style: cursive;
+}
